@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yuanyuangao.com/sitemap.xml
